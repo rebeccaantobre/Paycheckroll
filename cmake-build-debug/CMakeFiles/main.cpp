@@ -31,7 +31,7 @@
      {
          commission= 0.06 * totalSales;
      }
-     //calculate total salary
+     //calculate total salaryy
      totalSalary= baseSalary + commission + bonus1 + bonus2;
      std::cout << "Your total salary is:  " << totalSalary <<  std::endl;
 
